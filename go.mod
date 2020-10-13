@@ -1,4 +1,4 @@
-module github.com/heroku/docker-registry-client
+module github.com/niejiutao/docker-registry-client
 
 go 1.12
 
